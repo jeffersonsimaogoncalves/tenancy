@@ -20,13 +20,13 @@ backing its development over at [OpenCollective](https://opencollective.com/tena
 To give this package a spin, install all components at once:
 
 ```bash
-$ composer require tenancy/tenancy
+composer require tenancy/tenancy
 ```
 
 Otherwise make sure to selectively install the components you need and at least the framework:
 
 ```bash
-$ composer require tenancy/framework
+composer require tenancy/framework
 ```
 
 After that you'll need to decide on and configure:
